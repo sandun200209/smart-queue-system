@@ -57,4 +57,19 @@ A modern, real-time Queue Management System built with **Laravel 12**, **Docker*
 * `/my-token/{id}` - Customer Mobile Tracking Page
 
 ---
+
+## pages
+
+admin-dashboard
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/7bc6eb64-ca26-4225-b59f-35d1b639f3ee" />
+
+get the token 
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/eb64dfa8-0a79-4c7a-86ab-228faf7cbf5f" />
+
+counter
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/03ed7a62-bd1b-44b9-bddd-79e127c9aed5" />
+
+display
+<img width="1920" height="980" alt="Image" src="https://github.com/user-attachments/assets/1d52049f-ccba-428c-a5e0-b0cc0b2f4e9c" />
+
 Developed by Sandun Bandara
