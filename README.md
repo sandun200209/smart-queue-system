@@ -60,16 +60,19 @@ A modern, real-time Queue Management System built with **Laravel 12**, **Docker*
 
 ## pages
 
-admin-dashboard
+admin-dashboard - Central Control Panel
 <img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/7bc6eb64-ca26-4225-b59f-35d1b639f3ee" />
 
 get the token 
 <img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/eb64dfa8-0a79-4c7a-86ab-228faf7cbf5f" />
 
-counter
+counter-Staff Interface
 <img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/03ed7a62-bd1b-44b9-bddd-79e127c9aed5" />
 
-display
+display - Public Display Screen (TV)
 <img width="1920" height="980" alt="Image" src="https://github.com/user-attachments/assets/1d52049f-ccba-428c-a5e0-b0cc0b2f4e9c" />
+
+Mobile Tracking Page
+<img width="1920" height="918" alt="Image" src="https://github.com/user-attachments/assets/5f1b6042-8f3a-441f-a829-73fe637e3c5b" />
 
 Developed by Sandun Bandara
